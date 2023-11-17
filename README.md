@@ -27,7 +27,7 @@ belirlenmedi
 
 ## Not
   
-- [MIRO BOARD]https://miro.com/app/board/uXjVNOahVXw=/
+- [MIRO BOARD](https://miro.com/app/board/uXjVNOahVXw=/)
   
  ## Kullanılan Assetler
 
